@@ -6,4 +6,3 @@ seaborn
 scikit-learn
 tensorflow
 xgboost
-pytest>=7.0.0
